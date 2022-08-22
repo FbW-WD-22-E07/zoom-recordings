@@ -1,6 +1,6 @@
 <h1 align="center"> Zoom Recordings </h1>
 
-<h3 align="center"> Recordings will be deleted automatically after they have been stored for <span style:"color: red;"> 14 day(s) </span>!!! </h3>
+<h3 align="center"> Recordings will be deleted automatically after they have been stored for <span style:"color: red"> 14 day(s) </span>!!! </h3>
 
 ---
 
