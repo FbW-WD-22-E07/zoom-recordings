@@ -4,7 +4,7 @@
 
 ---
 
-<center>
+<div align="center">
 
 |     Date       |                                                            Link                                                                                |
 | -------------- | :--------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -13,6 +13,6 @@
 | Aug 22, 2022   |  [ZOOM recording  Link](https://us02web.zoom.us/rec/share/q5h7UbRmfmbBEliFq_sIjqKR5CP9dGmBe-FJg95To_-Pt7Of5UaweDoX79GoMu-q.HAOTZPvazogBNZDH)   |
 | Aug 18, 2022   |  [ZOOM recording  Link](https://us02web.zoom.us/rec/share/Rg_qYDXV1vlxb_BlFwZaWzpuya4Wm2DSHfDvQXWtRIP6w78dL1c80T4GSjDD1aFw.P12acx8lLcvsAWx0)   |
 
-</center>
+</div>
 
 ---
