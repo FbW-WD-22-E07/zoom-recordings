@@ -8,6 +8,7 @@
 
 |     Date       |                                                            Link                                                                                |
 | -------------- | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+| Sep 01, 2022   |  [ZOOM recording  Link](https://us02web.zoom.us/rec/share/He-RAinFPddCO6yg-IZxk-STcXCdQml1KFKInZa6XmilPiVNWV3iEeZeroyqIPqe.BOfy01G8VhGegt1E)    |
 | Aug 31, 2022   |  [ZOOM recording  Link](https://us02web.zoom.us/rec/share/GGHqQ1j3ElJCIrvd7Plwm2LkCqGacNgOc0LeQEegyq0WpSBZxSqGCF1Ffr6ojOs.0NhZnn3Rvqug5Jje)    |
 | Aug 30, 2022   |  [ZOOM recording  Link](https://us02web.zoom.us/rec/share/bM3nTrcDXZAQ1speWQIAZs4JwUOd0DFcrdaDkJ8B4bKVq8eGbYKImXD-VRukusrv.9y5MjtmXmE-XWDna)   |
 | Aug 29, 2022   |  [ZOOM recording  Link](https://us02web.zoom.us/rec/share/JBrnSz8nyr-n4pR9BvFnCOIjlcynae7HpWfhX2RikCxAa7ldk9LxyNUyOGEq3r0d.LEeBJyC4OOhdKvnZ)   |
